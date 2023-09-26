@@ -1,4 +1,5 @@
-# awsome software development llm prompts
+# awsome software development prompts
+---
 
 
 ## 
